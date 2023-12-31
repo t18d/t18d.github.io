@@ -1,4 +1,6 @@
 title: Open Source by Tonkünstler-on-the-Bund
+tagline: The open-source arm of Tonkünstler-on-the-Bund
+logo: /assets/favicon.ico
 
 plugins:
   - jekyll-seo-tag
