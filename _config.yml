@@ -2,6 +2,6 @@ title: Open Source
 tagline: by Tonkünstler-on-the-Bund
 description: The open-source arm of TKB
 logo: /assets/favicon.ico
-
+locale: en_GB
 plugins:
   - jekyll-seo-tag
