@@ -1,0 +1,4 @@
+title: Open Source by Tonkünstler-on-the-Bund
+plugins:
+  - jekyll-seo-tags
+  - jekyll-sitemap
