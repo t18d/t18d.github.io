@@ -1,7 +1,3 @@
----
-title: Open Source by Tonkünstler-on-the-Bund
----
-
 # Open Source
 _by Tonkünstler-on-the-Bund_
 
