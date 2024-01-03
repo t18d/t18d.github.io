@@ -1,4 +1,4 @@
-title: ""
+name: ""
 plugins:
-  - jekyll-seo-tags
+#  - jekyll-seo-tags
   - jekyll-sitemap
