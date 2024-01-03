@@ -1,4 +1,3 @@
 name: ""
 plugins:
-#  - jekyll-seo-tags
   - jekyll-sitemap
