@@ -1,1 +1,4 @@
-name: ""
+name: Open Source by Tonkünstler-on-the-Bund
+title: null
+plugins:
+  - jekyll-sitemap
