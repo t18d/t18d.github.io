@@ -32,8 +32,6 @@ User-agent: DataForSeoBot
 Disallow: /
 User-agent: Diffbot
 Disallow: /
-User-agent: DotBot
-Disallow: /
 User-agent: dotbot
 Disallow: /
 User-agent: FacebookBot
@@ -50,9 +48,9 @@ User-agent: MJ12bot
 Disallow: /
 User-agent: Magpie-crawler
 Disallow: /
-User-agent: Omgili
+User-agent: omgili
 Disallow: /
-User-agent: Omgilibot
+User-agent: omgilibot
 Disallow: /
 User-agent: Peer39_crawler
 Disallow: /
