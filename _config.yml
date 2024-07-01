@@ -1,4 +1,5 @@
 title: Open Source by Tonkünstler-on-the-Bund
+description: The open-source arm of TKB
 locale: en_GB
 plugins:
   - jekyll-seo-tag
