@@ -1,6 +1,4 @@
-name: Open Source by Tonkünstler-on-the-Bund
-title: null
-description: The open-source arm of TKB
+title: Open Source by Tonkünstler-on-the-Bund
 locale: en_GB
 plugins:
   - jekyll-seo-tag
