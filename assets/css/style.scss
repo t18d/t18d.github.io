@@ -6,6 +6,8 @@
 .markdown-body h1 {
   font-family: $body-font;
   font-size: $h4-size;
+  font-weight: 400;
+  font-variant: small-caps;
   line-height: $body-line-height;
   word-wrap: break-word;
 }
