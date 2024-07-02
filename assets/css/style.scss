@@ -5,8 +5,7 @@
 
 .markdown-body h1 {
   font-family: $body-font;
-  font-size: $body-font-size;
+  font-size: $h4-size;
   line-height: $body-line-height;
-  color: $text-gray-dark;
-  background-color: $bg-white;
+  word-wrap: break-word;
 }
