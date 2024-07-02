@@ -2,7 +2,7 @@
 title: Open Source by Tonkünstler-on-the-Bund
 permalink: /
 ---
-<header><h1>Open Source by Tonkünstler-on-the-Bund</h1></header>
+# Open Source by Tonkünstler-on-the-Bund
 
 &nbsp;  
 [Database of Greek and Latin Conjectural Emendations Attested in MSS](https://t18d.github.io/attested-conjectures/)
