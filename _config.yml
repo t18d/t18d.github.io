@@ -6,9 +6,3 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 incremental: true
-webrick:
-  headers:
-    Content-Security-Policy: default-src 'self'
-    X-Frame-Options: SAMEORIGIN
-    X-Content-Type-Options: nosniff
-    Referrer-Policy: no-referrer-when-downgrade
