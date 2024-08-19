@@ -1,7 +1,7 @@
 ---
 title: Open Source by Tonkünstler-on-the-Bund
 permalink: /
-last_modified_at: 2024-07-02
+last_modified_at:
 ---
 # Open Source by Tonkünstler-on-the-Bund
 
