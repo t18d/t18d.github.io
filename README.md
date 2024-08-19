@@ -11,3 +11,5 @@ last_modified_at: 2024-07-02
 [nG-SetEnvIf](https://github.com/t18d/nG-SetEnvIf)
 
 [fd for EL8/9](https://copr.fedorainfracloud.org/coprs/tkbcopr/fd/)
+
+[HuangSupplement](https://t18d.github.io/HuangSupplement/)
