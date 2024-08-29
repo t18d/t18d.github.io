@@ -12,15 +12,12 @@
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      <nav class="text-right text-gray">
-        {% if page.title == "Open Source by Tonkünstler-on-the-Bund" %}{% else %}<a href="/">Projects</a>{% endif %}
-      </nav>
 
       {{ content }}
 
       {% if site.github.private != true and site.github.license %}
       <footer class="footer border-top border-gray-light mt-5 pt-3 text-right text-gray">
-        {% if page.title == "Open Source by Tonkünstler-on-the-Bund" %}<a href="tools/">Unix Tools</a>{% else %}This site is open source. {% github_edit_link "Improve this page" %}.{% endif %}
+        {% if page.title == "Open Source by Tonkünstler-on-the-Bund" %}Projects | <a href="tools/">Unix Tools</a>{% else %}<a href="/">Projects</a> | Unix Tools{% endif %}
       </footer>
       {% endif %}
     </div>
