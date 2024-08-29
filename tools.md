@@ -30,6 +30,8 @@ Current sources on this subject are either [outdated](https://www.cs.toronto.edu
   - part of [moreutils](https://joeyh.name/code/moreutils/)
 - s/cat/**bat**/
   - its chief improvement is in adding syntax highlighting for the ['main use'](https://github.com/t18d/t18d.github.io/raw/main/assets/unix_prog_design.pdf) of `cat`, which is to print on the terminal without using a pager.
+- s/cd/**zoxide**+**fzf**/
+  - [algorithm](https://github.com/ajeetdsouza/zoxide/wiki/Algorithm)
 
 &nbsp;  
 - s/fortune-mod/**fortuna**/
