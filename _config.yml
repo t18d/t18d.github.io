@@ -6,3 +6,9 @@ plugins:
   - jekyll-seo-tag
   - jekyll-sitemap
 incremental: true
+defaults:
+  -
+    scope:
+      path:            "assets/*.pdf"
+    values:
+      sitemap:         false
