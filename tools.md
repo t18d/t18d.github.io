@@ -7,7 +7,6 @@ last_modified_at: 2024-08-29T15:20:11+00:00
 ---
 # Open Source by Tonkünstler-on-the-Bund
 
-&nbsp;  
 ## Unix Tools
 
 &nbsp;  
