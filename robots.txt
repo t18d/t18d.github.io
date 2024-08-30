@@ -5,6 +5,10 @@ Allow: /
 
 User-agent: AdsBot-Google
 Disallow: /
+User-agent: AI2Bot
+Disallow: /
+User-agent: Ai2Bot-Dolma
+Disallow: /
 User-agent: Amazonbot
 Disallow: /
 User-agent: Applebot-Extended
