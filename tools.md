@@ -26,6 +26,8 @@ Current sources on this subject are either [outdated](https://www.cs.toronto.edu
 
 &nbsp;  
 - s/sudo/**sudo-rs**/
+- s/md5sum/**b3sum**/
+- **mosh**+**tmux**
 - **sponge**
   - part of [moreutils](https://joeyh.name/code/moreutils/)
 - s/cat/**bat**/
