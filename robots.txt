@@ -50,6 +50,8 @@ User-agent: ICC-Crawler
 Disallow: /
 User-agent: ImagesiftBot 
 Disallow: /
+User-agent: iaskspider/2.0
+Disallow: /
 User-agent: img2dataset
 Disallow: /
 User-agent: OAI-SearchBot
