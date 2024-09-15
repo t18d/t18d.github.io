@@ -13,7 +13,8 @@ plugins:
   - jekyll-coffeescript                
   - jekyll-relative-links                
   - jekyll-readme-index                
-  - jekyll-default-layout                
+  - jekyll-default-layout
+  - jekyll-commonmark-ghpages
 incremental: true
 defaults:
   -
