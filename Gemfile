@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "jekyll"
 
 # The theme of current site, locked to a certain version.
-gem "jekyll-theme-primer"
+# gem "jekyll-theme-primer"
 
 # Plugins of this site loaded only if configured correctly.
 # gem "jekyll-gist"
