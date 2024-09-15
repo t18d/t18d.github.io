@@ -14,7 +14,6 @@ plugins:
   - jekyll-relative-links                
   - jekyll-readme-index                
   - jekyll-default-layout
-  - jekyll-commonmark-ghpages
 incremental: true
 defaults:
   -
