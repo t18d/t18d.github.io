@@ -8,20 +8,7 @@ plugins:
   - jekyll-remote-theme
   - jekyll-seo-tag
   - jekyll-sitemap
-  - jekyll-github-metadata   
-  - jekyll-seo-tag                
-  - jekyll-seo-tag                
-  - jekyll-sitemap                
-  - jekyll-coffeescript                
-  - jekyll-commonmark-ghpages                
-  - jekyll-gist                
-  - jekyll-github-metadata                
-  - jekyll-paginate                
-  - jekyll-relative-links                
-  - jekyll-optional-front-matter                
-  - jekyll-readme-index                
-  - jekyll-default-layout                
-  - jekyll-titles-from-headings
+  - jekyll-github-metadata
   - kramdown-parser-gfm
 incremental: true
 defaults:
