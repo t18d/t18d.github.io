@@ -24,7 +24,7 @@ plugins:
   - jekyll-titles-from-headings
   - kramdown-parser-gfm
 incremental: true
-exclude: assets/css/style.css
+exclude: [style.css]
 defaults:
   -
     scope:
