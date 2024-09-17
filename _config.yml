@@ -14,10 +14,6 @@ plugins:
   - jekyll-relative-links                
   - jekyll-readme-index                
   - jekyll-default-layout
-  - jekyll-last-modified-at
-# Optional. The default date format, used if none is specified in the tag.
-last-modified-at:
-    date-format: '%Y-%m-%dT%H:%M:%S%:z'
 incremental: true
 defaults:
   -
