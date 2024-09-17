@@ -21,3 +21,4 @@ defaults:
       path:            "assets/*.pdf"
     values:
       sitemap:         false
+exclude: [LICENSE, assets/css/style.css, assets/css/style.css.map]
