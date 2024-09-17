@@ -82,11 +82,9 @@ jobs:
         uses: ScribeMD/docker-cache@0.5.0
         with:
           key: docker-${{ runner.os }}-3.1.0
-      - name: HTML/CSS/JS Minifier
-        uses: devatherock/minify-js@latest
-        with:
-          directory: './_site'
-          add_suffix: false
+      - run: docker run --rm \
+               -e PARAMETER_ADD_SUFFIX=false \
+               devatherock/minify-js:3.1.0
       - name: Upload artifact
         # Automatically uploads an artifact from the './_site' directory by default
         uses: actions/upload-pages-artifact@v3
