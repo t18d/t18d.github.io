@@ -39,6 +39,7 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v4
+      - uses: jpribyl/action-docker-layer-caching@v0.1.1
       - uses: dorny/paths-filter@v3
         id: filter
         with:
@@ -78,7 +79,6 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
-      - uses: jpribyl/action-docker-layer-caching@v0.1.1
       - name: HTML/CSS/JS Minifier
         uses: docker://devatherock/minify-js:3.1.0
         with:
