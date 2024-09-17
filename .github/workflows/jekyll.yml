@@ -83,7 +83,7 @@ jobs:
         with:
           key: docker-${{ runner.os }}-3.1.0
       - name: HTML/CSS/JS Minifier
-        uses: devatherock/minify-js:3.1.0@latest
+        uses: devatherock/minify-js@latest
         with:
           directory: './_site'
           add_suffix: false
