@@ -111,6 +111,10 @@ jobs:
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+      - name: Cache Docker images.
+        uses: ScribeMD/docker-cache@0.5.0
+        with:
+          key: docker-${{ runner.os }}-3.1.0
       - name: HTML/CSS/JS Minifier
         uses: docker://devatherock/minify-js:3.1.0
         with:
