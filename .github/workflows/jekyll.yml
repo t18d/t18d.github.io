@@ -81,7 +81,7 @@ jobs:
       - name: Cache Docker images.
         uses: ScribeMD/docker-cache@0.5.0
         with:
-          key: docker-${{ runner.os }}-${{ hashFiles(.github/workflows/jekyll.yml) }}
+          key: docker-${{ runner.os }}-${{ hashFiles(jekyll.yml) }}
       - name: HTML/CSS/JS Minifier
         uses: docker://devatherock/minify-js:3.1.0
         with:
