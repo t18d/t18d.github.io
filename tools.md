@@ -21,6 +21,7 @@ Current sources on this subject are either [outdated](https://www.cs.toronto.edu
   - [benchmarks](https://github.com/chmln/sd#benchmarks)
 - s/awk/**frawk**/
   - [benchmarks](https://github.com/ezrosent/frawk/blob/master/info/performance.md)
+  - `gawk` remains useful for its non-POSIX features.
 - **xsv**
   - [benchmarks](https://github.com/BurntSushi/xsv/blob/master/BENCHMARKS.md)
 
