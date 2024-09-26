@@ -29,7 +29,7 @@ Current sources on this subject are either [outdated](https://www.cs.toronto.edu
 - s/sudo/**sudo-rs**/
 - s/md5sum/**b3sum**/
 - **mosh**+**tmux**
-- s/**xargs**|while **read**/**parallel**/
+- s/**xargs**\|while **read**/**parallel**/
   - [differences with `xargs`](https://www.gnu.org/software/parallel/parallel_alternatives.html#differences-between-xargs-and-gnu-parallel)
 - **sponge**
   - part of [moreutils](https://joeyh.name/code/moreutils/)
