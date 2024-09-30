@@ -24,12 +24,14 @@ Current sources on this subject are either [outdated](https://www.cs.toronto.edu
   - `gawk` remains useful for its non-POSIX features.
 - **xsv**
   - [benchmarks](https://github.com/BurntSushi/xsv/blob/master/BENCHMARKS.md)
+- s/bc/**bc-gh**/
+  - [benchmarks](https://git.gavinhoward.com/gavin/bc/src/branch/master/manuals/benchmarks.md)
 
 &nbsp;  
 - s/sudo/**sudo-rs**/
 - s/md5sum/**b3sum**/
 - **mosh**+**tmux**
-- s/**xargs**\|while **read**/**parallel**/
+- s/xargs\|while read/**parallel**/
   - [differences with `xargs`](https://www.gnu.org/software/parallel/parallel_alternatives.html#differences-between-xargs-and-gnu-parallel)
 - **sponge**
   - part of [moreutils](https://joeyh.name/code/moreutils/)
