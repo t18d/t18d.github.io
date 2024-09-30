@@ -10,6 +10,6 @@ last_modified_at: 2024-09-17T03:09:56+00:00
 
 [nG-SetEnvIf](https://github.com/t18d/nG-SetEnvIf)
 
-[fd for EL8/9](https://copr.fedorainfracloud.org/coprs/tkbcopr/fd/)
+[fd](https://copr.fedorainfracloud.org/coprs/tkbcopr/fd/), [bc-gh](https://copr.fedorainfracloud.org/coprs/tkbcopr/bc-gh/), [oils](https://copr.fedorainfracloud.org/coprs/tkbcopr/oils-for-unix/) for EL8/9
 
 [HuangSupplement](https://t18d.github.io/HuangSupplement/)
