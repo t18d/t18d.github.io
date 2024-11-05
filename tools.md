@@ -30,6 +30,7 @@ Current sources on this subject are either [outdated](https://www.cs.toronto.edu
   - [FGA](https://jdebp.uk/FGA/dont-abuse-su-for-dropping-privileges.html)
 - s/md5sum/**b3sum**/
 - **mosh**+**tmux**
+- **cwebp**+**zopflipng**
 - s/xargs\|while read/**parallel**/
   - [differences with `xargs`](https://www.gnu.org/software/parallel/parallel_alternatives.html#differences-between-xargs-and-gnu-parallel)
 - **sponge**
