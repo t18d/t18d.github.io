@@ -1,11 +1,11 @@
 {
   "name": "Open Source by Tonkünstler-on-the-Bund",
-  "short_name": "OSS by TKB",
+  "short_name": "OSS@TKB",
   "start_url": ".",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#fff",
-  "description": "The open-source arm of TKB",
+  "description": "TKB's open-source arm",
   "icons": [
     {
       "src": "android-chrome-192x192.png",
