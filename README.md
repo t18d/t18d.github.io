@@ -4,7 +4,7 @@ permalink: /
 last_modified_at: 2024-11-25T09:52:00+00:00
 ---
 # Open Source by Tonkünstler-on-the-Bund
-[![](https://img.shields.io/badge/GitHub-for%20Nonprofits-black?logo=github)](https://nonprofits.github.com)
+<a href="https://nonprofits.github.com"><img src="https://img.shields.io/badge/GitHub-for%20Nonprofits-black?logo=github"></a>
 
 &nbsp;  
 [Database of Greek and Latin Conjectural Emendations Attested in MSS](https://t18d.github.io/attested-conjectures/)
