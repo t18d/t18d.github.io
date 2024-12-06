@@ -62,6 +62,8 @@ User-agent: omgili
 Disallow: /
 User-agent: omgilibot
 Disallow: /
+User-agent: PanguBot
+Disallow: /
 User-agent: Peer39_crawler
 Disallow: /
 User-agent: PerplexityBot
