@@ -20,6 +20,8 @@ defaults:
       path:            "assets/*.pdf"
     values:
       sitemap:         false
+defaults:
+  -
     scope:
       path:            "*.html"
     values:
