@@ -14,10 +14,4 @@ plugins:
   - jekyll-readme-index                
   - jekyll-default-layout
 incremental: true
-defaults:
-  -
-    scope:
-      path:            "assets/*.pdf"
-    values:
-      sitemap:         false
 exclude: [LICENSE]
