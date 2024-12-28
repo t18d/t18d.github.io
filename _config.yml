@@ -18,6 +18,7 @@ defaults:
   -
     scope:
       path:            "assets/*.pdf"
+      path:            "*.html"
     values:
       sitemap:         false
 exclude: [LICENSE]
