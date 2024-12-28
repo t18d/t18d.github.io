@@ -15,3 +15,14 @@ plugins:
   - jekyll-default-layout
 incremental: true
 exclude: [LICENSE]
+defaults:
+  -
+    scope:
+      path:            "assets/*.pdf"
+    values:
+      sitemap:         false
+  -
+    scope:
+      path:            "*.html"
+    values:
+      sitemap:         false
