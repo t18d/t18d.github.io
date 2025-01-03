@@ -30,6 +30,8 @@ User-agent: Claude-Web
 Disallow: /
 User-agent: cohere-ai
 Disallow: /
+User-agent: cohere-training-data-crawler
+Disallow: /
 User-agent: DataForSeoBot
 Disallow: /
 User-agent: Diffbot
