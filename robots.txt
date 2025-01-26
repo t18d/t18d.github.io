@@ -28,6 +28,8 @@ User-agent: ClaudeBot
 Disallow: /
 User-agent: Claude-Web
 Disallow: /
+User-agent: Crawlspace
+Disallow: /
 User-agent: cohere-ai
 Disallow: /
 User-agent: cohere-training-data-crawler
