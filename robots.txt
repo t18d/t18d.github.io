@@ -18,6 +18,8 @@ User-agent: anthropic-ai
 Disallow: /
 User-agent: Baiduspider
 Disallow: /
+User-agent: Brightbot 1.0
+Disallow: /
 User-agent: Bytespider
 Disallow: /
 User-agent: CCBot
