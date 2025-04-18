@@ -64,7 +64,11 @@ User-agent: imgproxy
 Disallow: /
 User-agent: img2dataset
 Disallow: /
-User-agent: OAI-SearchBot
+User-agent: NovaAct
+Disallow: /
+User-agent: OAI-SearchBot                                                                                                                         
+Disallow: /                                                                                                                                       
+User-agent: Operator
 Disallow: /
 User-agent: omgili
 Disallow: /
