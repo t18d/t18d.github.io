@@ -9,7 +9,7 @@ last_modified_at: 2025-05-12T06:37:16+00:00
 
 &nbsp;  
 [Database of Greek and Latin Conjectural Emendations&nbsp;  
-Attested in MSS](https://t18d.github.io/attested-conjectures/) <a href="https://digitalpublicgoods.net/r/dpg-slug" target="_blank" rel="noopener noreferrer"><img src="https://github.com/DPGAlliance/dpg-resources/blob/main/docs/assets/dpg-badge.png?raw=true" width="50" align="center" alt="Digital Public Goods Badge"></a>
+Attested in MSS](https://t18d.github.io/attested-conjectures/) <a href="https://digitalpublicgoods.net/r/dpg-slug" target="_blank" rel="noopener noreferrer"><img src="https://t18d.github.io/assets/dpg-badge.png" width="50" align="center" alt="Digital Public Goods Badge"></a>
 
 [nG-SetEnvIf](https://github.com/t18d/nG-SetEnvIf)
 
