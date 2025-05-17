@@ -47,7 +47,8 @@ User-agent: omgilibot
 User-agent: PanguBot                                                                                                                              
 User-agent: Peer39_crawler                                                                                                                        
 User-agent: PerplexityBot                                                                                                                         
-User-agent: PetalBot                                                                                                                              
+User-agent: PetalBot
+User-agent: QualifiedBot
 User-agent: Scrapy                                                                                                                                
 User-agent: Seekr                                                                                                                                 
 User-agent: SemrushBot-OCOB                                                                                                                       
