@@ -21,8 +21,8 @@ Current sources on this subject are either [outdated](https://www.cs.toronto.edu
   - [benchmarks](https://github.com/sharkdp/fd?tab=readme-ov-file#benchmark)
 - s/sed/**sd**/
   - [benchmarks](https://github.com/chmln/sd#benchmarks)
-- **xsv**
-  - [benchmarks](https://github.com/BurntSushi/xsv/blob/master/BENCHMARKS.md)
+- **qsv**
+  - [performance tuning](https://github.com/dathere/qsv/blob/master/docs/PERFORMANCE.md)
 - s/bc/**bc-gh**/
   - [benchmarks](https://git.gavinhoward.com/gavin/bc/src/branch/master/manuals/benchmarks.md)
 
