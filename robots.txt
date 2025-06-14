@@ -45,6 +45,7 @@ User-agent: ImagesiftBot
 User-agent: iaskspider/2.0
 User-agent: img2dataset
 User-agent: MistralAI-User/1.0
+User-agent: MyCentralAIScraperBot
 User-agent: NovaAct
 User-agent: OAI-SearchBot
 User-agent: Operator
@@ -56,6 +57,7 @@ User-agent: Peer39_crawler
 User-agent: PerplexityBot
 User-agent: PetalBot
 User-agent: PhindBot
+User-agent: Poseidon Research Crawler
 User-agent: panscient.com
 User-agent: QualifiedBot
 User-agent: QuillBot
