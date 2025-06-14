@@ -15,6 +15,7 @@ User-agent: anthropic-ai
 User-agent: Baiduspider
 User-agent: Brightbot 1.0
 User-agent: Bytespider
+User-agent: bedrockbot
 User-agent: CCBot
 User-agent: ChatGPT-User
 User-agent: ClaudeBot
@@ -27,6 +28,7 @@ User-agent: cohere-ai
 User-agent: cohere-training-data-crawler
 User-agent: DataForSeoBot
 User-agent: Diffbot
+User-agent: EchoboxBot
 User-agent: FacebookBot
 User-agent: Factset_spyderbot
 User-agent: FirecrawlAgent
