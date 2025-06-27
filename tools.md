@@ -19,6 +19,8 @@ Current sources on this subject are either [outdated](https://www.cs.toronto.edu
   - [benchmarks](https://blog.burntsushi.net/ripgrep/)
 - s/find/**fd**/
   - [benchmarks](https://github.com/sharkdp/fd?tab=readme-ov-file#benchmark)
+- s/find/**bfs**/
+  - [benchmarks](https://tavianator.com/2023/bfs_3.0.html)
 - s/sed/**sd**/
   - [benchmarks](https://github.com/chmln/sd#benchmarks)
 - **qsv**
