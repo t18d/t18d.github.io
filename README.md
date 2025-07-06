@@ -16,3 +16,5 @@ Attested in MSS](https://t18d.github.io/attested-conjectures/) <a href="https://
 [fd](https://copr.fedorainfracloud.org/coprs/tkbcopr/fd/) \| [bc-gh](https://copr.fedorainfracloud.org/coprs/tkbcopr/bc-gh/) \| [oils](https://copr.fedorainfracloud.org/coprs/tkbcopr/oils-for-unix/) for EL8/9/10
 
 [HuangSupplement](https://t18d.github.io/HuangSupplement/)
+
+[A Concordance of Taboo](https://t18d.github.io/taboo-concordance/)
