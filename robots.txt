@@ -1,6 +1,7 @@
 Sitemap: https://t18d.github.io/sitemap.xml
 Sitemap: https://t18d.github.io/attested-conjectures/sitemap.xml
 Sitemap: https://t18d.github.io/HuangSupplement/sitemap.xml
+Sitemap: https://t18d.github.io/taboo-concordance/sitemap.xml
 User-agent: *
 Allow: /
 
