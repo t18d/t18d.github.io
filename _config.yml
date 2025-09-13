@@ -13,6 +13,8 @@ plugins:
   - jekyll-relative-links                
   - jekyll-readme-index                
   - jekyll-default-layout
+  - csv
+  - base64
 incremental: true
 exclude: [LICENSE]
 defaults:
