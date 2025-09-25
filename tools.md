@@ -12,7 +12,12 @@ description: A selection of modern tools as used at TKB
 ## Unix Tools
 
 &nbsp;  
-Current sources on this subject are either [outdated](https://www.cs.toronto.edu/~maclean/csc209/unixtools.html) or [indiscriminate](https://github.com/ibraheemdev/modern-unix). In some places, obsolete knowledge is being [purveyed to students](https://www.cl.cam.ac.uk/teaching/2122/UnixTools/unixtools-slides.pdf). This page presents a selection of modern tools as used at TKB.
+Current sources on this subject are either 
+[outdated](https://www.cs.toronto.edu/~maclean/csc209/unixtools.html) or 
+[indiscriminate](https://github.com/ibraheemdev/modern-unix). In some places, 
+obsolete knowledge is being [purveyed to 
+students](https://www.cl.cam.ac.uk/teaching/2122/UnixTools/unixtools-slides.pdf).
+This page presents a selection of modern tools as used at TKB.
 
 &nbsp;  
 - s/grep/**ripgrep**/
@@ -23,8 +28,11 @@ Current sources on this subject are either [outdated](https://www.cs.toronto.edu
   - [benchmarks](https://tavianator.com/2023/bfs_3.0.html)
 - s/sed/**sd**/
   - [benchmarks](https://github.com/chmln/sd#benchmarks)
+- s/npm/**bun**/
+  - [benchmarks](https://github.com/edbzn/package-manager-benchmarks)
 - **qsv**
-  - [performance tuning](https://github.com/dathere/qsv/blob/master/docs/PERFORMANCE.md)
+  - [performance
+    tuning](https://github.com/dathere/qsv/blob/master/docs/PERFORMANCE.md)
 - s/bc/**bc-gh**/
   - [benchmarks](https://git.gavinhoward.com/gavin/bc/src/branch/master/manuals/benchmarks.md)
 
@@ -36,11 +44,13 @@ Current sources on this subject are either [outdated](https://www.cs.toronto.edu
 - **mosh**+**tmux**
 - **cwebp**+**zopflipng**
 - s/xargs\|while read/**parallel**/
-  - [differences with `xargs`](https://www.gnu.org/software/parallel/parallel_alternatives.html#differences-between-xargs-and-gnu-parallel)
+  - [differences with
+    `xargs`](https://www.gnu.org/software/parallel/parallel_alternatives.html#differences-between-xargs-and-gnu-parallel)
 - **sponge**
   - part of [moreutils](https://joeyh.name/code/moreutils/)
 - s/cat/**bat** -p/
-  - its chief improvement is in adding syntax highlighting for the ['main use'](https://github.com/t18d/t18d.github.io/raw/main/assets/unix_prog_design.pdf) of `cat`, which is to print on the terminal without using a pager.
+  - its chief improvement is in adding syntax highlighting for the ['main
+    use'](https://github.com/t18d/t18d.github.io/raw/main/assets/unix_prog_design.pdf) of `cat`, which is to print on the terminal without using a pager.
 - s/cd/**zoxide**+**fzf**/
   - [algorithm](https://github.com/ajeetdsouza/zoxide/wiki/Algorithm)
 
