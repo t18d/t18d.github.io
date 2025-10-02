@@ -30,6 +30,8 @@ This page presents a selection of modern tools as used at TKB.
   - [benchmarks](https://github.com/chmln/sd#benchmarks)
 - s/npm/**bun**/
   - [benchmarks](https://github.com/edbzn/package-manager-benchmarks)
+- s/pip/**uv**/
+  - [benchmarks](https://github.com/astral-sh/uv/blob/main/BENCHMARKS.md)
 - **qsv**
   - [performance
     tuning](https://github.com/dathere/qsv/blob/master/docs/PERFORMANCE.md)
