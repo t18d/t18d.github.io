@@ -4,7 +4,7 @@ permalink: tools/
 seo:
   type: Collection
   name: Unix Tools
-last_modified_at: 2025-09-25T12:19:49+00:00
+last_modified_at: 2025-10-02T11:19:57+00:00
 description: A selection of modern tools as used at TKB
 ---
 # Open Source by Tonkünstler-on-the-Bund
