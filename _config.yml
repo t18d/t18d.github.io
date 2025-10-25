@@ -1,0 +1,30 @@
+title: Open Source by Tonkünstler-on-the-Bund
+description: The open-source arm of TKB
+logo: android-chrome-192x192.png
+locale: en_GB
+repository: t18d/t18d.github.io
+url: "https://t18d.github.io"
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-github-metadata
+  - kramdown-parser-gfm
+  - jekyll-coffeescript                
+  - jekyll-relative-links                
+  - jekyll-readme-index                
+  - jekyll-default-layout
+  - csv
+  - base64
+incremental: true
+exclude: [LICENSE]
+defaults:
+  -
+    scope:
+      path:            "assets/*.pdf"
+    values:
+      sitemap:         false
+  -
+    scope:
+      path:            "*.html"
+    values:
+      sitemap:         false
