@@ -15,8 +15,7 @@ plugins:
   - jekyll-default-layout
   - csv
   - base64
-incremental: true
-exclude: [LICENSE]
+exclude: [package.json, LICENSE]
 defaults:
   -
     scope:

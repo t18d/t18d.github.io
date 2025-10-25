@@ -15,6 +15,7 @@ on:
       - '**.html'
       - '*.txt'
       - '*.json'
+      - .github/workflows/jekyll.yml
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -80,18 +81,18 @@ jobs:
           push_options: '--force-with-lease'
       - name: Detect latest cached Ruby
         run: |
-          if [ -d "/opt/hostedtoolcache/Ruby" ] && \
-             LATEST_RUBY=$(ls -d /opt/hostedtoolcache/Ruby/* | \
-                           grep -E '^[0-9]+\.[0-9]+\.[0-9]+$' | \
-                           sort -V | tail -1 | xargs basename) && \
-             [ -n "$LATEST_RUBY" ]; then
+          if [ -d "/opt/hostedtoolcache/Ruby" ]; then
+            LATEST_RUBY=$(ls -d /opt/hostedtoolcache/Ruby/*/x64/bin \
+              | awk -F/ '{print $5}' \
+              | sort -V \
+              | tail -1)
+
             echo "LATEST_RUBY_VERSION=$LATEST_RUBY" >> $GITHUB_ENV
             echo "Latest cached Ruby: $LATEST_RUBY"
           else
-            echo "No suitable cached Ruby found; falling back to 'ruby'."
+            echo "No cached Ruby found; falling back to 'ruby'."
             echo "LATEST_RUBY_VERSION=ruby" >> $GITHUB_ENV
           fi
-      
       - uses: ruby/setup-ruby@v1
         with:
           ruby-version: ${{ env.LATEST_RUBY_VERSION }}
